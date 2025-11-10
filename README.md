@@ -1,5 +1,6 @@
 # 🗓️ Day 8: Asynchronous JavaScript & ES6+ Features.
-📘 Learning Focus
+
+📘 Learning-Focus
 
 Learned how asynchronous execution is handled in JavaScript.
 
